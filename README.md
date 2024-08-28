@@ -1,1 +1,1 @@
-just as the name implies it just a media player 
+just as the name implies it is just a media player 
